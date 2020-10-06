@@ -1411,3 +1411,148 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-23.26.07:834][766]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto62D0F49CF4B9B333E579D8E9F8526F593.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
 [2020.10.05-23.26.07:837][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 2.136
 [2020.10.05-23.26.07:837][766]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.136
+[2020.10.05-23.36.09:051][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.05-23.36.09:053][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.041
+[2020.10.05-23.46.09:610][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.05-23.46.09:612][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.089
+[2020.10.05-23.56.10:169][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.05-23.56.10:171][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.052
+[2020.10.05-23.59.11:050][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.10.05-23.59.12:705][945]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_DefaultE17BD4CE4CAB3201AD9CAEB6D5421AE4.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.05-23.59.13:502][945]LogFileHelpers: Saving map 'Minimal_Default' took 2.663
+[2020.10.05-23.59.13:624][945]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.05-23.59.13:624][945]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.05-23.59.29:567][831]LogEditorViewport: Clicking on Actor (context menu): Player_Blueprint_C (Player_Blueprint)
+[2020.10.05-23.59.47:387][836]LogEditorViewport: Clicking on Actor (context menu): Player_Blueprint_C (Player_Blueprint)
+[2020.10.05-23.59.51:900][ 53]LogEditorViewport: Clicking on Actor (LMB): Player_Blueprint_C (Player_Blueprint)
+[2020.10.05-23.59.53:114][125]Cmd: DELETE
+[2020.10.05-23.59.53:114][125]Cmd: ACTOR DELETE
+[2020.10.05-23.59.53:150][125]LogEditorActor: Deleted Actor: Player_Blueprint_C
+[2020.10.05-23.59.53:405][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.05-23.59.53:432][125]LogEditorActor: Deleted 1 Actors (0.318 secs)
+[2020.10.05-23.59.57:978][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.06-00.00.08:632][369]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.06-00.00.29:593][369]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-00.00.29:613][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-00.00.30:173][369]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-00.00.51:286][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.10.06-00.00.52:678][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.06-00.00.52:749][369]LogUObjectHash: Compacting FUObjectHashTables data took  28.75ms
+[2020.10.06-00.00.52:976][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.10.06-00.01.33:142][851]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.06-00.01.45:778][435]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.06-00.02.10:044][435]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.06-00.02.23:598][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-00.02.34:367][617]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-00.02.34:634][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.06-00.02.37:545][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset" SILENT=true
+[2020.10.06-00.02.38:486][723]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_Blueprint238DD285424C3A6D537248BE40F610E0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset'
+[2020.10.06-00.02.38:532][723]AssetCheck: New page: Asset Save: Player_Blueprint
+[2020.10.06-00.02.38:532][723]LogContentValidation: Display: Validating Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-00.03.56:645][243]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.06-00.03.57:456][280]LogEditorViewport: Clicking on Actor (LMB): Player_Blueprint_C (Player_Blueprint)
+[2020.10.06-00.04.21:218][672]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.10.06-00.09.11:793][940]LogUObjectHash: Compacting FUObjectHashTables data took 136.55ms
+[2020.10.06-00.09.13:337][940]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto7B15BA0CE455B6EE9A8F60C8713663000.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2020.10.06-00.09.13:393][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.823
+[2020.10.06-00.09.13:393][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.823
+[2020.10.06-00.19.14:473][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.06-00.19.14:475][877]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.226
+[2020.10.06-00.20.26:489][957]LogEditorViewport: Clicking on Actor (LMB): Player_Blueprint_C (Player_Blueprint)
+[2020.10.06-00.22.56:189][532]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-00.22.56:832][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.06-00.23.24:166][667]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-00.23.24:441][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.06-00.23.26:802][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset" SILENT=true
+[2020.10.06-00.23.27:710][747]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_Blueprint7D87F8634181BE84FDD103BA2E99FF93.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset'
+[2020.10.06-00.23.27:760][747]AssetCheck: New page: Asset Save: Player_Blueprint
+[2020.10.06-00.23.27:813][747]LogContentValidation: Display: Validating Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-00.29.15:282][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.10.06-00.29.16:422][741]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto89367B4EF458760A228CFDCB34610BBC4.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2020.10.06-00.29.16:425][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.249
+[2020.10.06-00.29.16:425][741]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.249
+[2020.10.06-00.39.17:326][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.06-00.39.17:693][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.575
+[2020.10.06-00.43.38:275][546]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-00.43.38:726][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.06-00.43.39:821][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset" SILENT=true
+[2020.10.06-00.43.41:626][572]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_BlueprintE224E0614D6774918A24128307BBFA95.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset'
+[2020.10.06-00.43.41:796][572]AssetCheck: New page: Asset Save: Player_Blueprint
+[2020.10.06-00.43.41:796][572]LogContentValidation: Display: Validating Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-00.49.18:941][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.10.06-00.49.21:287][243]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto999CB0FF84AD4BF8A4C4ED2BED92288E0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2020.10.06-00.49.21:303][243]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 2.793
+[2020.10.06-00.49.21:303][243]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.793
+[2020.10.06-00.56.25:676][374]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.06-00.56.25:797][374]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.06-00.59.26:675][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.10.06-00.59.27:207][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.559
+[2020.10.06-01.09.28:941][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.06-01.09.28:983][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.560
+[2020.10.06-01.19.39:658][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.06-01.19.39:781][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.894
+[2020.10.06-01.29.42:048][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.10.06-01.29.42:049][630]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.790
+[2020.10.06-01.39.44:071][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.06-01.39.44:105][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.237
+[2020.10.06-01.49.47:033][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.06-01.49.47:225][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.876
+[2020.10.06-01.59.48:030][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.10.06-01.59.48:482][992]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.584
+[2020.10.06-02.09.49:277][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.06-02.09.49:375][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.158
+[2020.10.06-02.15.27:423][837]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.06-02.15.27:878][840]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.06-02.15.28:361][840]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.06-02.19.51:352][475]LogUObjectHash: Compacting FUObjectHashTables data took 266.47ms
+[2020.10.06-02.19.52:614][475]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.863
+[2020.10.06-02.28.30:801][629]LogSlate: Took 0.277574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.06-02.33.48:781][794]LogUObjectHash: Compacting FUObjectHashTables data took 372.49ms
+[2020.10.06-02.33.58:792][794]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto037022661439752C713BB45A93CE7AAAE.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2020.10.06-02.33.58:956][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 11.519
+[2020.10.06-02.33.58:956][794]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.519
+[2020.10.06-02.33.59:122][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Blueprint] ([1] browsable assets)...
+[2020.10.06-02.33.59:444][794]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Blueprint.Player_Blueprint]
+[2020.10.06-02.33.59:444][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Blueprint]
+[2020.10.06-02.33.59:485][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/Player_Blueprint_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.10.06-02.34.03:082][794]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_Blueprint_Auto09D1D738D41B0C58BD4B55F8E2D2748AF.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/Player_Blueprint_Auto0.uasset'
+[2020.10.06-02.34.03:084][794]LogFileHelpers: Auto-saving content packages took 4.128
+[2020.10.06-02.36.29:700][496]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.36.34:425][496]LogUObjectHash: Compacting FUObjectHashTables data took  72.37ms
+[2020.10.06-02.36.42:752][734]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.36.43:187][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.06-02.40.08:123][459]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.40.08:925][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.06-02.40.58:596][303]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.40.59:023][303]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.10.06-02.41.19:677][ 77]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.41.19:977][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.06-02.43.56:026][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset" SILENT=true
+[2020.10.06-02.43.58:310][718]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_BlueprintB3888F4B42317872CB83E8A699C08EE4.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset'
+[2020.10.06-02.43.59:222][718]AssetCheck: New page: Asset Save: Player_Blueprint
+[2020.10.06-02.43.59:222][718]LogContentValidation: Display: Validating Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-02.44.37:434][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.06-02.44.38:183][344]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto197D0D8D448344B2B3B42FCB3E97C52E3.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.10.06-02.44.38:186][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.929
+[2020.10.06-02.44.38:186][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.929
+[2020.10.06-02.45.06:515][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.06-02.45.07:577][313]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default70B785384819A94197B6ABA7AF20DB16.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.06-02.45.15:775][313]LogFileHelpers: Saving map 'Minimal_Default' took 9.993
+[2020.10.06-02.45.16:120][313]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.06-02.45.16:120][313]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.06-02.45.52:237][800]BlueprintLog: New page: Compile Player_Blueprint
+[2020.10.06-02.45.53:167][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.10.06-02.46.12:760][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint" FILE="../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset" SILENT=true
+[2020.10.06-02.46.13:973][542]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Player_Blueprint3258583C4C26782FF5065284EF80FFF2.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/Player_Blueprint.uasset'
+[2020.10.06-02.46.14:051][542]AssetCheck: New page: Asset Save: Player_Blueprint
+[2020.10.06-02.46.14:051][542]LogContentValidation: Display: Validating Blueprint /Game/Player_Blueprint.Player_Blueprint
+[2020.10.06-02.55.09:826][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.10.06-02.55.12:651][508]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_Default_Auto2EC89DD614FFA111E8DDC8E8B203FC839.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.10.06-02.55.12:655][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 3.180
+[2020.10.06-02.55.12:655][508]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.180
+[2020.10.06-03.03.17:290][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.06-03.03.24:538][115]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Saved/Minimal_DefaultEC06B21B4C718D87976A8D9B320856A0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/PONG/myPONG/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.06-03.03.26:199][115]LogFileHelpers: Saving map 'Minimal_Default' took 9.374
+[2020.10.06-03.03.26:266][115]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.06-03.03.26:267][115]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
